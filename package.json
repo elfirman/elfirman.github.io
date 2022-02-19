@@ -1,0 +1,45 @@
+{
+    "name": "elfirman",
+    "version": "1.0",
+    "description": "Personal Portofolio Website of Ismail Firman",
+    "main": "index.js",
+    "repository": "https://github.com/elfirman/elfirman.git",
+    "bugs": "https://github.com/elfirman/ismailfirman",
+    "author": {
+        "name": "Ismail Firman",
+        "email": "contact@ismailfirman.tech",
+        "url": "https://ismailfirman.tech"
+    },
+    "homepage": "https://ismailfirman.tech",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start -p 5000",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "animate.css": "^4.1.1",
+        "aos": "^2.3.4",
+        "next": "^12.0.1",
+        "next-images": "^1.8.1",
+        "next-pwa": "^5.3.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    },
+    "devDependencies": {
+        "@types/aos": "^3.0.4",
+        "@types/node": "^16.7.10",
+        "@types/react": "^17.0.19",
+        "autoprefixer": "^10.2.6",
+        "eslint": "^7.32.0",
+        "eslint-config-next": "11.1.2",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "postcss": "^8.3.5",
+        "prettier": "^2.3.2",
+        "tailwindcss": "^2.2.4",
+        "typescript": "^4.4.2"
+    }
+}
