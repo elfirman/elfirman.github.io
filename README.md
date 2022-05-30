@@ -14,16 +14,10 @@ Interested in working with me? Need help on your project? Or just wanna say hi? 
 
 ### Socials
 - LinkedIn: [ismailfirman](http://linkedin.com/in/ismailfirman)
-- Twitter: [@elfirman](http://twitter.com/kazuiel)
 - Instagram: [@ismailfirman](http://instagram.com/ismailfirman)
 
 ### Posts
 - Github: [elfirman](http://github.com/elfirman)
-- Medium: [@elfirman](http://medium.com/@elfirman)
 
-### Creative Platforms
-- Soundcloud: [elfirman](http://soundcloud.com/elfirman)
-- Dribbble:	[elfirman](http://dribbble.com/elfirman)
-- Behance: [elfirman](https://www.behance.net/elfirman)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=elfirman/elfirman)
